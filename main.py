@@ -36,6 +36,7 @@ def validate(path: Path) -> None:
     assert text == text.strip(), "no leading/trailing whitespace"
 
 
+# entry.txt is exactly one UTF-8 line with no trailing newline.
 def main() -> None:
     out_dir = _resolve_output_dir()
     entry = out_dir / "entry.txt"
