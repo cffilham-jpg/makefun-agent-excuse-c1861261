@@ -1,5 +1,6 @@
-"""Write a deterministic one-line excuse for a shipped bug.
-The sleeping-tests twist gives the agent a concrete, immediate laugh.
+"""Write the chosen excuse about shipping a bug at 3 AM.
+The line lands with one twist: even the agent's tests were asleep.
+Tests provide the specific concrete noun that keeps the joke immediate.
 """
 
 import hashlib
